@@ -8,6 +8,6 @@ Name - Karan Malhotra, UIN - 650035495, NetId - kmalho4, Role - Scribe  Responsi
 
 How to run the code :-
 
-1.Extract the attached zip file and open PlaystoreAnalysis.ipynb under the Project3 Folder.
-2.Run the cell respectively to obtain the output.
-3.Additional installations of wordcloud is required which can be done using conda by command `conda install -c conda-forge wordcloud`
+1.Extract the attached zip file and open PlaystoreAnalysis.ipynb under the Final-Project Folder.
+2.Additional installations of wordcloud is required which can be done using conda by command `conda install -c conda-forge wordcloud`
+3.Run the cell respectively to obtain the output.
