@@ -1,5 +1,8 @@
 Google Playstore Analysis
 
+Code - PlaystoreAnalysis.ipynb
+Please refer to the slides below for the description of the project
+
 ![Screenshot 2021-04-27 at 00 18 24](https://user-images.githubusercontent.com/35519401/116189339-6dd47700-a6ee-11eb-89e7-1f17b93046f7.png)
 
 
